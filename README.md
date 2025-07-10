@@ -30,6 +30,10 @@ npm run build
 - Firebase Email/Password auth enabled
 - Wraps routes using context and `PrivateRoute`
 
+## Pitch Deck Link
+
+https://www.canva.com/design/DAGswTFwQHw/BMNmsUlAy53dCFw-ZqP49g/edit?utm_content=DAGswTFwQHw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Payment (optional)
 
 You can integrate PayFast using a subscribe button and redirect logic.
